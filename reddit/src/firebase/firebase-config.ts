@@ -10,19 +10,12 @@ import { getStorage } from "firebase/storage";
 // Your web app's Firebase configuration
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCLwXf77NuoR0ESLwAAgez_wS_gM8V4J7M",
-
-  authDomain: "reddit-clone-23782.firebaseapp.com",
-
-  projectId: "reddit-clone-23782",
-
-  storageBucket: "reddit-clone-23782.appspot.com",
-
-  messagingSenderId: "855149209259",
-
-  appId: "1:855149209259:web:cb03f2ae83010e6feab9ee",
-
-  measurementId: "G-9D511367MB",
+  apiKey: "AIzaSyD5fzCL3CiBNZzU9qHH42nkG812jVq4Oqc",
+  authDomain: "social-media-ffa90.firebaseapp.com",
+  projectId: "social-media-ffa90",
+  storageBucket: "social-media-ffa90.appspot.com",
+  messagingSenderId: "1000042058843",
+  appId: "1:1000042058843:web:8ea1b3d89b4372d0f71b7e",
 };
 
 // Initialize Firebase
